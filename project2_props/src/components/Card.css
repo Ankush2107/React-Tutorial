@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.card-wrapper {
+    width: 350px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
